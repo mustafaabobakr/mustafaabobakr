@@ -1,8 +1,15 @@
-Hi 👋 My name is Mostafa Abobakr
+Hi 👋, I'm Mostafa Abobakr
 ================================
 
 Frontend Developer
 ------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaabobakr&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaabobakr" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaabobakr" alt="mustafaabobakr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mustafaabobakr_" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaabobakr_?logo=twitter&style=for-the-badge" alt="mustafaabobakr" /></a> </p>
+
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [mostafaabobakr.com](https://mostafaabobakr.com)
@@ -35,13 +42,31 @@ Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mustafaabobakr"><img src="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="mustafaabobakr's GitHub stats" /></a>
+<table>
+ <tr>
+  <td>
+    <a href="http://www.github.com/mustafaabobakr"><img src="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="mustafaabobakr's GitHub stats" /></a>
+  </td>
+  <td>
+    <a href="http://www.github.com/mustafaabobakr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaabobakr&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  </td>
+ </tr>
+</table>
 
-<a href="http://www.github.com/mustafaabobakr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaabobakr&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<table>
+ <tr>
+  <td>
 <a href="http://www.github.com/mustafaabobakr"><img src="https://activity-graph.herokuapp.com/graph?username=mustafaabobakr&bg_color=1c1917&color=ffffff&line=64748b&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+  </td>
+  <td>
 <a href="https://github.com/mustafaabobakr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabobakr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </td>
+ </tr>
+</table>
+
+
+
+
 
 
 <a href="https://www.profileme.dev/">Credits: www.profileme.dev</a>
