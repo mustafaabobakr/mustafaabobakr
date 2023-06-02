@@ -12,7 +12,7 @@ Frontend Developer
 
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [mostafaabobakr.com](https://mostafaabobakr.com)
+* 🖥️  See my portfolio at <a href="https://mostafaabobakr.com" target="blank">mostafaabobakr.com</a>
 * ✉️  You can contact me at [contact@mostafaabobakr.com](mailto:contact@mostafaabobakr.com)
 * 🧠  I'm learning Nodejs Postgres
 * 🤝  I'm open to collaborating on Nextjs React Redux
