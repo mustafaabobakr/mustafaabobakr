@@ -68,14 +68,14 @@ Qualification:
 
    <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&theme=dark&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&theme=dark&rank_icon=github&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&rank_icon=github&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaabobakr&show_icons=true&rank_icon=github&hide_border=true" />
 </picture>
 
   </td>
