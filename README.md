@@ -58,9 +58,7 @@ Qualification:
 - Identify and resolve performance and scalability issues using tools like React Profiler.
 
 
-### Badges    [![wakatime](https://wakatime.com/badge/user/0b203570-b9bc-446f-adef-a71e81cbaf55.svg)](https://wakatime.com/@0b203570-b9bc-446f-adef-a71e81cbaf55)
-
-<b>My GitHub Stats</b>
+### Stats   [![wakatime](https://wakatime.com/badge/user/0b203570-b9bc-446f-adef-a71e81cbaf55.svg)](https://wakatime.com/@0b203570-b9bc-446f-adef-a71e81cbaf55)
 
 <table>
  <tr>
@@ -85,23 +83,8 @@ Qualification:
  </tr>
 </table>
 
-<table>
- <tr>
-  <td>
-<a href="https://github.com/mustafaabobakr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabobakr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-  </td>
-  <td>
-   
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mostafaabobakr&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  </td>
- </tr>
-</table>
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mostafaabobakr&langs_count=20&layout=compact&theme=dark&hide_border=true&card&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
